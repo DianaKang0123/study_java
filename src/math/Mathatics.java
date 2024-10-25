@@ -23,5 +23,9 @@ public class Mathatics {
         double e = Math.floor(x); // 내림
         System.out.println(e);
 
+        double f = Math.round(x); // 소숫점 반올림
+        System.out.println(f);
+
+
     }
 }
